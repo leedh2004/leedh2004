@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![Dohyun's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=leedh2004&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedh2004&layout=compact&theme=material-palenight)
 ### 🧑🏻‍💻 Experience
+- **토스**, Full-time iOS Developer (2021)
 - **Kakao Pay**, Security Solution Intern (2021)
 - **LINE+**, Ad Platform iOS Intern (2021)
 - **SW Masetro**, 11th member (2020)
